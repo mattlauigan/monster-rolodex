@@ -1,0 +1,10 @@
+.card-container {
+  background-color: #02b2b8;
+  border: 2px rgb(70, 152, 219) solid;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.card-container img {
+  margin: 40px 0 0 0;
+}
